@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|c:\\users\\aslid\\onedrive\\masa\u00FCst\u00FC\\serialport - copy\\serialport\\newform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\newform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\newform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\newform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\serialport\\newform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C825C64-07CA-4467-835B-92CD03229F8D}|SerialPort\\SerialPort.csproj|solutionrelative:serialport\\newform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewForm.cs",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.cs",
+              "RelativeDocumentMoniker": "SerialPort\\NewForm.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.cs",
+              "RelativeToolTip": "SerialPort\\NewForm.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAkwA0BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T10:31:23.921Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\Form1.cs",
+              "RelativeDocumentMoniker": "SerialPort\\Form1.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\Form1.cs",
+              "RelativeToolTip": "SerialPort\\Form1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T22:34:00.071Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SerialPort\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\SettingsForm.cs",
+              "RelativeToolTip": "SerialPort\\SettingsForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:14:51.973Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.Designer.cs",
+              "RelativeDocumentMoniker": "SerialPort\\NewForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.Designer.cs",
+              "RelativeToolTip": "SerialPort\\NewForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T08:09:53.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\Form1.cs",
+              "RelativeDocumentMoniker": "SerialPort\\Form1.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SerialPort\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T08:06:01.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.cs",
+              "RelativeDocumentMoniker": "SerialPort\\NewForm.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\NewForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SerialPort\\NewForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:36:53.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SerialPort\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\aslid\\OneDrive\\Masa\u00FCst\u00FC\\SerialPort - Copy\\SerialPort\\SettingsForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "SerialPort\\SettingsForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T07:29:15.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
